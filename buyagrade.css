@@ -24,3 +24,9 @@ input[type="submit"] {
     font-size: 2em;
     width: 100%;
 }
+
+.submit{
+    width: 100%;
+
+    font-size: 25px;
+}
